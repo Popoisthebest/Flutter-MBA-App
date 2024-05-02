@@ -32,8 +32,8 @@ class _PlayerPageState extends State<PlayerPage> {
         first_name: eachPlayer['first_name'],
         last_name: eachPlayer['last_name'],
         jersey_number: eachPlayer['jersey_number'].toString(),
-        weight: eachPlayer['weight_poundsd'].toString(),
-        height: eachPlayer['height_feet'].toString(),
+        weight: eachPlayer['weight'].toString(),
+        height: eachPlayer['height'].toString(),
         position: eachPlayer['position'],
         country: eachPlayer['country'], // API에서 'country' 필드는 제공되지 않으므로 가정
         team_name: eachPlayer['team']['abbreviation'],

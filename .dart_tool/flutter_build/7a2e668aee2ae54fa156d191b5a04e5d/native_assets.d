@@ -1,0 +1,1 @@
+ /Users/popo/Documents/GitHub/MBA/.dart_tool/flutter_build/7a2e668aee2ae54fa156d191b5a04e5d/native_assets.yaml: 
